@@ -19,7 +19,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Sch-Pw-hwc">
                                 <rect key="frame" x="30" y="144.5" width="1306" height="735"/>
                                 <subviews>
-                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="password" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Z0b-Cw-e4Z">
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Пароль" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Z0b-Cw-e4Z">
                                         <rect key="frame" x="15" y="321" width="1276" height="125"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="Z0b-Cw-e4Z" secondAttribute="height" multiplier="337:33" id="Pwn-Pq-VRj"/>
@@ -27,7 +27,7 @@
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
                                     </textField>
-                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="login" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uxt-Al-ry3">
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Логин" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uxt-Al-ry3">
                                         <rect key="frame" x="15" y="177.5" width="1276" height="128.5"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="uxt-Al-ry3" secondAttribute="height" multiplier="337:34" id="yzx-5a-A2M"/>
